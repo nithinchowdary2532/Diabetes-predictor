@@ -1,1 +1,1 @@
-# diabectics-prediction-end-to-end-model
+#diabetes full end to end project
