@@ -1,1 +1,2 @@
-#diabetes full end to end project
+# Diabetes-predictor
+https://nithinchowdary2532.github.io/Diabetes-predictor/
